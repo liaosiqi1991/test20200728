@@ -1,0 +1,16 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.frmFindQueue.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.frmInsertQueue.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.frmIntoQueue.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.frmModifyQueue.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.frmQueueDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.frmResetQueue.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.QueueManagerControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueManager.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueManager.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Queue\obj\Debug\zlMedimgSystem.CTL.QueueManager.pdb

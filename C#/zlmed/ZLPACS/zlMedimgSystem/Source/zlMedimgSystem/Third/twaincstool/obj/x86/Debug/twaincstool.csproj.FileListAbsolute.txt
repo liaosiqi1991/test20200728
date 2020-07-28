@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAINCSToolkit.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAINCSToolkit.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAINCSToolkit.dll.CodeAnalysisLog.xml
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAINCSToolkit.dll.lastcodeanalysissucceeded
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\twaincstool\obj\x86\Debug\twaincstool.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\twaincstool\obj\x86\Debug\twaincstool.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\twaincstool\obj\x86\Debug\TWAINCSToolkit.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\twaincstool\obj\x86\Debug\TWAINCSToolkit.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\twaincstool\obj\x86\Debug\twaincstool.csprojAssemblyReference.cache

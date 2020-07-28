@@ -1,0 +1,17 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.Controls.ColorEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.Controls.FontEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.ImageEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.Controls.ImageView.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.Controls.SplitPage.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.Controls.ToolsConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.frmImageView.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.BusinessBase.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.BusinessBase.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\BusinessBase\obj\Debug\zlMedimgSystem.BusinessBase.pdb

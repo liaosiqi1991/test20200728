@@ -1,0 +1,12 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.frmInfoConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.frmInfoDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.InfoControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Info.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Info.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Info\obj\Debug\zlMedimgSystem.CTL.Info.csprojAssemblyReference.cache

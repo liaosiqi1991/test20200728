@@ -1,0 +1,12 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.CharsControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.frmCharConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.frmCharDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Chars.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Chars.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Chars\obj\Debug\zlMedimgSystem.CTL.Chars.csprojAssemblyReference.cache

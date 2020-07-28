@@ -1,0 +1,10 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.ReportViewControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.ReportView.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.ReportView.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ReportView\obj\Debug\zlMedimgSystem.CTL.ReportView.csprojAssemblyReference.cache

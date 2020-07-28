@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B806F59-1505-4BDF-9322-0C769DD053F1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zlMedimgSystem.CTL.QueueManager</RootNamespace>
+    <AssemblyName>zlMedimgSystem.CTL.QueueManager</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.Data.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.Utils.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.XtraEditors.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.XtraLayout.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.XtraNavBar.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zlMedimgSystem.BusinessBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Public\zlMedimgSystem.BusinessBase.dll</HintPath>
+    </Reference>
+    <Reference Include="zlMedimgSystem.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="zlMedimgSystem.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="zlMedimgSystem.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="zlMedimgSystem.Services, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmFindQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFindQueue.Designer.cs">
+      <DependentUpon>frmFindQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInsertQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInsertQueue.Designer.cs">
+      <DependentUpon>frmInsertQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIntoQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIntoQueue.Designer.cs">
+      <DependentUpon>frmIntoQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyQueue.Designer.cs">
+      <DependentUpon>frmModifyQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResetQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResetQueue.Designer.cs">
+      <DependentUpon>frmResetQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QueueConfig.cs" />
+    <Compile Include="QueueHelper.cs" />
+    <Compile Include="QueuModuleDesign.cs" />
+    <Compile Include="frmQueueConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQueueConfig.Designer.cs">
+      <DependentUpon>frmQueueConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQueueDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQueueDesign.Designer.cs">
+      <DependentUpon>frmQueueDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueManagerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QueueManagerControl.Designer.cs">
+      <DependentUpon>QueueManagerControl.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmFindQueue.resx">
+      <DependentUpon>frmFindQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInsertQueue.resx">
+      <DependentUpon>frmInsertQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIntoQueue.resx">
+      <DependentUpon>frmIntoQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyQueue.resx">
+      <DependentUpon>frmModifyQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQueueDesign.resx">
+      <DependentUpon>frmQueueDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResetQueue.resx">
+      <DependentUpon>frmResetQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QueueManagerControl.resx">
+      <DependentUpon>QueueManagerControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ordercall.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dicrectcall.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertqueue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restorequeue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pausequeue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abandonqueue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funnel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_recored.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\queue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dropdowncursor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

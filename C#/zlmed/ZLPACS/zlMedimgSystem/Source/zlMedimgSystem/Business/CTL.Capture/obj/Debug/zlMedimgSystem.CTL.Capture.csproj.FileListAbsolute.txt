@@ -1,0 +1,14 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.CaptureControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.frmApplyPlan.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.frmVideoConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.frmVideoDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Capture.dll.config
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Capture.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Capture.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Capture\obj\Debug\zlMedimgSystem.CTL.Capture.pdb

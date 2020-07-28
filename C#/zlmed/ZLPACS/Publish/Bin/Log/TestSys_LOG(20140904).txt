@@ -1,0 +1,721 @@
+<DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>16:55:02.596</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>16:55:02.758</时间>
+    <描述>线程间操作无效: 从不是创建控件“label1”的线程访问它。</描述>
+    <来源>System.Windows.Forms&gt;&gt;&gt;&gt;
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.set_WindowText(String value)
+   在 System.Windows.Forms.Control.set_Text(String value)
+   在 System.Windows.Forms.Label.set_Text(String value)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 71
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 169</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>16:58:38.282</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>16:58:38.290</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 73
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 169</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>16:58:42.288</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 73
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 169</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>16:58:48.946</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 73
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 169</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>16:58:56.473</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 73
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 169</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>16:59:02.228</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 73
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 169</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>17:05:04.983</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>17:05:04.990</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 189</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>17:46:13.675</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>17:46:13.683</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 74
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 177</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>17:46:38.142</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>17:46:38.150</时间>
+    <描述>正在中止线程。</描述>
+    <来源>mscorlib&gt;&gt;&gt;&gt;
+   在 System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   在 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   在 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ZLSoft.ZLPacs.Debug.CommonTest.ThreadWork(Object objPar) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\CommonTest.cs:行号 74
+   在 ZLSoft.ZLPacs.Common.Components.FormBase.&lt;&gt;c__DisplayClass1.&lt;ThreadStart&gt;b__0() 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Components\FormBase\FormBase.cs:行号 177</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>18:00:42.880</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>18:00:42.881</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:07:21.853</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:07:21.853</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:07:40.636</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:07:40.636</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:15:48.377</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:15:48.377</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:20:57.225</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:20:57.225</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:38:18.999</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:38:18.999</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:52:56.323</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:52:56.323</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:53:11.294</时间>
+    <描述>BackgroundWork执行完毕.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:53:28.217</时间>
+    <描述>BackgroundWork执行完毕.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>21:58:26.663</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块 />
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:58:26.663</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>21:58:30.195</时间>
+    <描述>BackgroundWork执行完毕.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>22:02:32.849</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:02:32.864</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:02:51.928</时间>
+    <描述>BackgroundWork执行完毕.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>22:05:04.865</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:05:04.865</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:05:15.115</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:05:15.147</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:05:15.662</时间>
+    <描述>警告日志类型测试。ab1dae0b-cf61-478b-982e-8fad8bcb4f4b</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:05:40.570</时间>
+    <描述>BackgroundWork执行完毕.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-04</日期>
+    <时间>22:05:46.384</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-04</日期>
+    <时间>22:05:46.384</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement>

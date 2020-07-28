@@ -1,0 +1,7 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.ExtInterface.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.ExtInterface.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\BizExternal\obj\Debug\zlMedimgSystem.ExtInterface.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\BizExternal\obj\Debug\zlMedimgSystem.ExtInterface.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\BizExternal\obj\Debug\zlMedimgSystem.ExtInterface.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\BizExternal\obj\Debug\zlMedimgSystem.ExtInterface.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\BizExternal\obj\Debug\zlMedimgSystem.ExtInterface.csprojAssemblyReference.cache

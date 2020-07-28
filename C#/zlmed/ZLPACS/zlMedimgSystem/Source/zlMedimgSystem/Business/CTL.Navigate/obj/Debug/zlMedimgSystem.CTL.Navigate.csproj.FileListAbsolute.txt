@@ -1,0 +1,12 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.frmDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.NavigateControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Navigate.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Navigate.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Navigate\obj\Debug\zlMedimgSystem.CTL.Navigate.pdb

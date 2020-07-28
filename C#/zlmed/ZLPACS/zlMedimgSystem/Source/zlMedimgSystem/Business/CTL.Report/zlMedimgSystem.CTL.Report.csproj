@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0147AB3B-D50C-4D5F-9524-8CAA05AA1E73}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zlMedimgSystem.CTL.Report</RootNamespace>
+    <AssemblyName>zlMedimgSystem.CTL.Report</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>..\..\..\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX18\DevExpress.Data.v18.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX18\DevExpress.Utils.v18.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX18\DevExpress.XtraBars.v18.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX18\DevExpress.XtraEditors.v18.1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZLApplet.FormPart, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\ReportEditor\ZLApplet.FormPart.dll</HintPath>
+    </Reference>
+    <Reference Include="ZLSoft.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\Json\ZLSoft.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmRejectManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRejectManager.Designer.cs">
+      <DependentUpon>frmRejectManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportReject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportReject.Designer.cs">
+      <DependentUpon>frmReportReject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSignManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSignManager.Designer.cs">
+      <DependentUpon>frmSignManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewReport.Designer.cs">
+      <DependentUpon>frmNewReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReason.Designer.cs">
+      <DependentUpon>frmReason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportDesign.Designer.cs">
+      <DependentUpon>frmReportDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReportControl.Designer.cs">
+      <DependentUpon>ReportControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportModuleDesign.cs" />
+    <Compile Include="ReportPublic.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Design\Design\zlMedimgSystem.Design.csproj">
+      <Project>{fd1fecdc-4343-451d-b581-73491ce27bbe}</Project>
+      <Name>zlMedimgSystem.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Frame\Interface\zlMedimgSystem.Interface.csproj">
+      <Project>{252e73cb-f780-43a6-929f-a6377b7c74b3}</Project>
+      <Name>zlMedimgSystem.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Frame\Services\zlMedimgSystem.Services.csproj">
+      <Project>{B3FB307C-E375-4246-A575-27596CBE58B4}</Project>
+      <Name>zlMedimgSystem.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base\BusinessBase\zlMedimgSystem.BusinessBase.csproj">
+      <Project>{413686EA-02FD-4B39-9383-7BC729EDF430}</Project>
+      <Name>zlMedimgSystem.BusinessBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base\DataModel\zlMedimgSystem.DataModel.csproj">
+      <Project>{cddc4447-cc14-4b8e-8df8-c0ed038d49e6}</Project>
+      <Name>zlMedimgSystem.DataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmRejectManager.resx">
+      <DependentUpon>frmRejectManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportReject.resx">
+      <DependentUpon>frmReportReject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSignManager.resx">
+      <DependentUpon>frmSignManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewReport.resx">
+      <DependentUpon>frmNewReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReason.resx">
+      <DependentUpon>frmReason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportDesign.resx">
+      <DependentUpon>frmReportDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl.resx">
+      <DependentUpon>ReportControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add16X16.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk_blue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\revise2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SureRevise.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CancelRevise.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reback.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reback1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reject.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compare.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compare1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verify.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\more.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_up.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_down.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_paper.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_cancel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_paper1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelgiveout.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabinet.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelfinish.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToPdf.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report Schedule.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\contract.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

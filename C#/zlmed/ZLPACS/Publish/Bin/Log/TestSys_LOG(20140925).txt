@@ -1,0 +1,2333 @@
+<DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:42:18.493.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:18.581.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:18.584.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:18.586.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:18.587.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:18.589.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:19.538.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:42:35.625.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:35.626.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:35.628.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:35.628.1</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:35.629.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:35.630.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:42:36.60.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:44:19.724.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:44:19.725.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:44:19.727.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:44:19.728.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:44:19.728.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:44:19.729.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:44:20.178.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:49:08.150.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:49:08.151.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:49:08.153.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:49:08.153.1</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:49:08.154.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:49:08.155.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:49:08.612.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:50:10.614.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:50:10.615.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:50:10.617.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:50:10.617.1</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:50:10.618.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:50:10.619.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:50:11.65.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:52:21.326.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:52:21.327.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:52:21.329.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:52:21.330.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:52:21.330.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:52:21.332.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:52:21.795.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:54:52.12.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:54:52.51.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:54:52.52.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:54:52.53.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:54:52.54.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:58:13.17.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:13.19.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:13.20.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:13.21.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:13.21.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:13.23.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:13.525.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>09:58:47.897.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:47.899.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:47.901.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:47.901.1</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:47.902.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:47.903.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>09:58:48.329.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>11:06:18.162.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:18.164.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:18.166.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:18.167.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:18.168.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:18.169.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:18.608.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:19.939.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:19.985.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:19.987.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:06:19.988.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>11:06:19.990.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>11:48:20.37.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:20.38.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:20.40.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:20.41.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:20.41.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:20.43.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:20.485.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:21.751.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:21.766.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:21.767.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>11:48:21.768.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>11:48:21.770.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:55:46.198.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:46.200.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:46.201.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:46.202.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:46.202.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:46.203.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:46.957.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:48.730.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:48.818.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:48.821.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:55:48.822.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:55:48.823.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:56:16.323.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:16.325.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:16.327.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:16.328.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:16.329.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:16.330.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:16.766.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:18.490.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:18.580.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:18.581.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:56:18.582.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:56:18.584.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:57:17.185.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:17.187.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:17.189.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:17.191.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:17.191.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:17.193.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:17.727.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:57:51.189.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:51.192.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:51.194.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:51.195.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:51.196.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:51.198.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:57:51.714.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:58:47.386.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:58:47.388.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:58:47.390.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:58:47.391.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:58:47.391.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:58:47.392.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:58:47.887.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>16:59:55.917.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:59:55.921.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:59:55.924.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:59:55.925.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:59:55.926.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:59:55.928.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>16:59:56.403.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>17:00:18.16.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:00:18.18.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:00:18.19.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:00:18.21.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:00:18.21.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:00:18.23.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:00:18.489.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>17:05:11.102.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:11.103.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:11.106.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:11.107.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:11.107.1</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:11.109.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:11.573.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:12.975.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:13.64.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:13.66.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:05:13.67.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>17:05:13.68.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>17:46:13.262.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:13.263.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:13.265.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:13.265.1</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:13.266.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:13.267.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:13.721.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:14.950.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:15.41.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:15.42.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>17:46:15.43.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>17:46:15.45.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>18:11:45.924.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:45.926.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:45.928.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:45.930.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:45.931.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:45.932.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:46.567.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:47.723.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:47.895.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:47.903.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:11:47.907.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>18:11:47.909.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>18:17:12.919.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:12.921.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:12.923.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:12.925.0</时间>
+    <描述>数据库连接对象已创建，并加入到数据库管理集中，连接信息为 [服务名:server  用户名: User] 。</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:12.926.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>OpenDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:12.927.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>InitGlobalDB [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:13.448.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:14.797.0</时间>
+    <描述>已进入当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:14.891.0</时间>
+    <描述>已释放数据库管理集相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:14.892.0</时间>
+    <描述>已释放数据缓冲区相关资源。</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>调试</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-25</日期>
+    <时间>18:17:14.893.0</时间>
+    <描述>离开当前方法...</描述>
+    <来源>Dispose [DBAccessManager]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-25</日期>
+    <时间>18:17:14.894.0</时间>
+    <描述>日志服务停止。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement>

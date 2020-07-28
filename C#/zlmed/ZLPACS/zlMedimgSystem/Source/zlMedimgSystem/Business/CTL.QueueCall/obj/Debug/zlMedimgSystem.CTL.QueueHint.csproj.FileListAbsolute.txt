@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.frmQueueHintDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.QueueHintControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueHint.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueHint.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueCall\obj\Debug\zlMedimgSystem.CTL.QueueHint.csprojAssemblyReference.cache

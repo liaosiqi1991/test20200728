@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Pedal.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Pedal.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.frmPedalDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.PedalControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Pedal\obj\Debug\zlMedimgSystem.CTL.Pedal.csprojAssemblyReference.cache

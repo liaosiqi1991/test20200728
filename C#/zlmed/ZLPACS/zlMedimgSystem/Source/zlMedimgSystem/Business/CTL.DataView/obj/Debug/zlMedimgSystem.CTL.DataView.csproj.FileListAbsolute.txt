@@ -1,0 +1,17 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.DataViewControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.DataViewLayout.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.DesignMiddleWare.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.frmDataFieldEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.frmDataFromEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.frmDataViewModuleDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.frmTest.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.DataView.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.DataView.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataView\obj\Debug\zlMedimgSystem.CTL.DataView.csprojAssemblyReference.cache

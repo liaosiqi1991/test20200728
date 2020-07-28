@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueVoice.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueVoice.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.frmQueueVoiceDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.QueueVoiceControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueVoice\obj\Debug\zlMedimgSystem.CTL.QueueVoice.csprojAssemblyReference.cache

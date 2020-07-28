@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDDC4447-CC14-4B8E-8DF8-C0ED038D49E6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zlMedimgSystem.DataModel</RootNamespace>
+    <AssemblyName>zlMedimgSystem.DataModel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>..\..\..\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZLSoft.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Libary\Json\ZLSoft.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\DBModel.cs" />
+    <Compile Include="JsonClass\Bodypart.cs" />
+    <Compile Include="JsonClass\DepartmentMatch.cs" />
+    <Compile Include="JsonClass\DepRoomAndDevice.cs" />
+    <Compile Include="JsonClass\ExamItem.cs" />
+    <Compile Include="JsonClass\JDictionary.cs" />
+    <Compile Include="JsonClass\QueueInfo.cs" />
+    <Compile Include="JsonClass\ReportContext.cs" />
+    <Compile Include="JsonClass\StudyExecuteInfo.cs" />
+    <Compile Include="JsonClass\StudyImpl.cs" />
+    <Compile Include="JsonClass\StudyMedia.cs" />
+    <Compile Include="JsonClass\NoRule.cs" />
+    <Compile Include="JsonClass\Parameter.cs" />
+    <Compile Include="JsonClass\ReportTemplate.cs" />
+    <Compile Include="JsonClass\ReportWords.cs" />
+    <Compile Include="JsonClass\RoleInfo.cs" />
+    <Compile Include="JsonClass\RoleWindow.cs" />
+    <Compile Include="JsonClass\ScanInfo.cs" />
+    <Compile Include="JsonClass\StationConfig.cs" />
+    <Compile Include="JsonClass\StorageInfo.cs" />
+    <Compile Include="JsonClass\ThridDBSource.cs" />
+    <Compile Include="JsonClass\UserInfo.cs" />
+    <Compile Include="Model\Apply\ApplyModel.cs" />
+    <Compile Include="DataDefine\IReportBizData.cs" />
+    <Compile Include="JsonClass\ApplyInfo.cs" />
+    <Compile Include="JsonClass\HisServer.cs" />
+    <Compile Include="Base\JsonField.cs" />
+    <Compile Include="JsonClass\PatientInfo.cs" />
+    <Compile Include="Model\Apply\ScanModel.cs" />
+    <Compile Include="Model\Apply\StudyExecuteModel.cs" />
+    <Compile Include="Model\Bodypart\BodypartModel.cs" />
+    <Compile Include="Model\DepartmentMatch\DepartmentMatchModel.cs" />
+    <Compile Include="Model\DepRoomAndDevice\DepRoomAndDeviceModel.cs" />
+    <Compile Include="Model\DictionaryManager\DictionaryManagerModel.cs" />
+    <Compile Include="Model\ExamItem\ExamItemModel.cs" />
+    <Compile Include="Model\HIsServer\HisServerModel.cs" />
+    <Compile Include="Model\Parameter\NoRuleModel.cs" />
+    <Compile Include="Model\Parameter\ParameterModel.cs" />
+    <Compile Include="Model\Parameter\StationConfigModel.cs" />
+    <Compile Include="Model\Patient\PatientModel.cs" />
+    <Compile Include="Base\RowConvert.cs" />
+    <Compile Include="IDataOper.cs" />
+    <Compile Include="DataDefine\IStudyBizData.cs" />
+    <Compile Include="ModelQueryScheme.cs" />
+    <Compile Include="Model\Queue\QueueModel.cs" />
+    <Compile Include="Model\Report\ReportContextModel.cs" />
+    <Compile Include="Model\Report\ReportTemplateModel.cs" />
+    <Compile Include="Model\Report\ReportWordsModel.cs" />
+    <Compile Include="Model\RoleWindow\RoleWindowModel.cs" />
+    <Compile Include="Model\Role\RoleModel.cs" />
+    <Compile Include="Model\Storage\StorageModel.cs" />
+    <Compile Include="Model\StudyImpl\StudyImplModel.cs" />
+    <Compile Include="Model\StudyMedia\StudyMediaModel.cs" />
+    <Compile Include="Model\ThridDBSource\ThridDBModel.cs" />
+    <Compile Include="Model\User\UserModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DataDefine\StudyBizData.cs" />
+    <Compile Include="Base\SqlHelper.cs" />
+    <Compile Include="VerifyDefault.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Data\SqlManager\zlMedimgSystem.SqlManager.csproj">
+      <Project>{9aacd50c-669b-46d3-b778-7fbfa5fd0ffd}</Project>
+      <Name>zlMedimgSystem.SqlManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Frame\Interface\zlMedimgSystem.Interface.csproj">
+      <Project>{252e73cb-f780-43a6-929f-a6377b7c74b3}</Project>
+      <Name>zlMedimgSystem.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Frame\Services\zlMedimgSystem.Services.csproj">
+      <Project>{b3fb307c-e375-4246-a575-27596cbe58b4}</Project>
+      <Name>zlMedimgSystem.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

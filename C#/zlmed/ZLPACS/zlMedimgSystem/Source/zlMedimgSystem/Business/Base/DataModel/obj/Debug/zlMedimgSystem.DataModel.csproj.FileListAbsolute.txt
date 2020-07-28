@@ -1,0 +1,7 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Public\zlMedimgSystem.DataModel.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Public\zlMedimgSystem.DataModel.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\DataModel\obj\Debug\zlMedimgSystem.DataModel.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\DataModel\obj\Debug\zlMedimgSystem.DataModel.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\DataModel\obj\Debug\zlMedimgSystem.DataModel.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\DataModel\obj\Debug\zlMedimgSystem.DataModel.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\DataModel\obj\Debug\zlMedimgSystem.DataModel.pdb

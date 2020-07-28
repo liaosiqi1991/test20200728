@@ -1,0 +1,16 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.frmRejectManager.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.frmReportReject.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.frmSignManager.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.frmNewReport.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.frmReason.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.frmReportDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.ReportControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Report.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Report.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Report\obj\Debug\zlMedimgSystem.CTL.Report.csproj.CopyComplete

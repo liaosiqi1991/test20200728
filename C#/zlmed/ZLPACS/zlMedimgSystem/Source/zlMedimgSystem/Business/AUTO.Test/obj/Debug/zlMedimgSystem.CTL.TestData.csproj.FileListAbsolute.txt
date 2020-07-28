@@ -1,0 +1,12 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.TestData.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.TestData.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.frmDataConstructor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.frmDictData.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.TestDataControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.TestData.csprojAssemblyReference.cache

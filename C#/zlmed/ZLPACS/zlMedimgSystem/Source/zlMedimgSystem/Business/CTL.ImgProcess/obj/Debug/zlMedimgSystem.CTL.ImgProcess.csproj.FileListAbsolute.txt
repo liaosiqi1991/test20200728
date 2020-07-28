@@ -1,0 +1,7 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.frmImageProcess.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.ImagePreview.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.ImgProcessControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ImgProcess\obj\Debug\zlMedimgSystem.CTL.ImgProcess.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.SqlManager.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.SqlManager.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.frmSqlManager.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\SqlManager\obj\Debug\zlMedimgSystem.SqlManager.pdb

@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Services.dll.config
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Services.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Services.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.LogView.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.frmMsgBox.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Services\obj\x86\Debug\zlMedimgSystem.Services.pdb

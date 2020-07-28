@@ -1,0 +1,4685 @@
+<DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>09:29:15.871</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:15.875</时间>
+    <描述>开始调试....</描述>
+    <来源>[Debug].ctor</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:18.264</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>[FormBase]ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:18.268</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>[CommonTest]DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:19.860</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>[FormBase]ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:19.872</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>[FormBase]DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:21.900</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>[CommonTest]DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:21.900</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>[FormBase]ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:23.909</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>[FormBase]ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:23.925</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>[FormBase]DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:27.137</时间>
+    <描述>开始计算</描述>
+    <来源>[Logger]GetSource</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:27.157</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:27.581</时间>
+    <描述>开始计算</描述>
+    <来源>[Logger]GetSource</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:27.589</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:27.997</时间>
+    <描述>警告日志类型测试。c3488af5-d6e0-4614-84b1-4455ac8d52b6</描述>
+    <来源>[Logger]GetSource</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:29:28.237</时间>
+    <描述>警告日志类型测试。5791deda-fba2-46b4-9cf3-51216ea71940</描述>
+    <来源>[Logger]GetSource</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>09:35:13.787</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>09:35:13.791</时间>
+    <描述>开始调试....</描述>
+    <来源>[Debug].ctor</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>10:04:34.142</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:34.142</时间>
+    <描述>开始调试....</描述>
+    <来源>[Debug]..ctor</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:36.486</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>[FormBase].ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:36.486</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>[CommonTest].DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:38.95</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>[FormBase].ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:38.111</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>[FormBase].DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:40.64</时间>
+    <描述>开始计算</描述>
+    <来源>[LogTest].button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:40.64</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:40.439</时间>
+    <描述>警告日志类型测试。04057349-9abd-46c6-ac31-eace1da9acd4</描述>
+    <来源>[LogTest].button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:44.799</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>[CommonTest].DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:44.799</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>[FormBase].ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:46.440</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>[FormBase].ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:04:46.456</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>[FormBase].DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>10:09:30.807</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:30.807</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:33.807</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:33.807</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:34.494</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:34.510</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:36.651</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:36.651</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:37.745</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:37.776</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:40.541</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:40.557</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:41.260</时间>
+    <描述>警告日志类型测试。e26028c1-2425-423f-8940-e421f3afbfda</描述>
+    <来源>button4_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:45.479</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:45.479</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:47.245</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:09:47.276</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>10:20:12.49</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:20:12.49</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>10:20:40.452</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:20:45.442</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:22:14.732</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:22:33.369</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>10:36:54.475.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:54.475.1</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.162.0</时间>
+    <描述>线程ID:3&gt;&gt;0&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.162.1</时间>
+    <描述>线程ID:3&gt;&gt;1&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.162.2</时间>
+    <描述>线程ID:3&gt;&gt;2&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.162.3</时间>
+    <描述>线程ID:3&gt;&gt;3&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.178.0</时间>
+    <描述>线程ID:3&gt;&gt;4&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.178.1</时间>
+    <描述>线程ID:3&gt;&gt;5&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.178.2</时间>
+    <描述>线程ID:3&gt;&gt;6&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.0</时间>
+    <描述>线程ID:3&gt;&gt;7&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.1</时间>
+    <描述>线程ID:3&gt;&gt;8&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.2</时间>
+    <描述>线程ID:3&gt;&gt;9&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.3</时间>
+    <描述>线程ID:3&gt;&gt;10&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.4</时间>
+    <描述>线程ID:3&gt;&gt;11&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.5</时间>
+    <描述>线程ID:3&gt;&gt;12&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.6</时间>
+    <描述>线程ID:3&gt;&gt;13&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.7</时间>
+    <描述>线程ID:3&gt;&gt;14&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.8</时间>
+    <描述>线程ID:3&gt;&gt;15&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.9</时间>
+    <描述>线程ID:3&gt;&gt;16&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.194.10</时间>
+    <描述>线程ID:3&gt;&gt;17&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.0</时间>
+    <描述>线程ID:3&gt;&gt;18&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.1</时间>
+    <描述>线程ID:3&gt;&gt;19&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.2</时间>
+    <描述>线程ID:3&gt;&gt;20&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.3</时间>
+    <描述>线程ID:3&gt;&gt;21&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.4</时间>
+    <描述>线程ID:3&gt;&gt;22&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.5</时间>
+    <描述>线程ID:3&gt;&gt;23&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.6</时间>
+    <描述>线程ID:3&gt;&gt;24&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.7</时间>
+    <描述>线程ID:3&gt;&gt;25&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.8</时间>
+    <描述>线程ID:3&gt;&gt;26&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.9</时间>
+    <描述>线程ID:3&gt;&gt;27&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.10</时间>
+    <描述>线程ID:3&gt;&gt;28&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.11</时间>
+    <描述>线程ID:3&gt;&gt;29&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.12</时间>
+    <描述>线程ID:3&gt;&gt;30&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.13</时间>
+    <描述>线程ID:3&gt;&gt;31&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.14</时间>
+    <描述>线程ID:3&gt;&gt;32&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.15</时间>
+    <描述>线程ID:3&gt;&gt;33&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.16</时间>
+    <描述>线程ID:3&gt;&gt;34&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.209.17</时间>
+    <描述>线程ID:3&gt;&gt;35&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.0</时间>
+    <描述>线程ID:3&gt;&gt;36&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.1</时间>
+    <描述>线程ID:3&gt;&gt;37&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.2</时间>
+    <描述>线程ID:3&gt;&gt;38&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.3</时间>
+    <描述>线程ID:3&gt;&gt;39&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.4</时间>
+    <描述>线程ID:3&gt;&gt;40&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.5</时间>
+    <描述>线程ID:3&gt;&gt;41&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.6</时间>
+    <描述>线程ID:3&gt;&gt;42&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.7</时间>
+    <描述>线程ID:3&gt;&gt;43&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.8</时间>
+    <描述>线程ID:3&gt;&gt;44&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.9</时间>
+    <描述>线程ID:3&gt;&gt;45&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.10</时间>
+    <描述>线程ID:3&gt;&gt;46&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.11</时间>
+    <描述>线程ID:3&gt;&gt;47&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.12</时间>
+    <描述>线程ID:3&gt;&gt;48&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.13</时间>
+    <描述>线程ID:3&gt;&gt;49&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.14</时间>
+    <描述>线程ID:3&gt;&gt;50&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.15</时间>
+    <描述>线程ID:3&gt;&gt;51&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.225.16</时间>
+    <描述>线程ID:3&gt;&gt;52&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.0</时间>
+    <描述>线程ID:3&gt;&gt;53&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.1</时间>
+    <描述>线程ID:3&gt;&gt;54&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.2</时间>
+    <描述>线程ID:3&gt;&gt;55&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.3</时间>
+    <描述>线程ID:3&gt;&gt;56&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.4</时间>
+    <描述>线程ID:3&gt;&gt;57&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.5</时间>
+    <描述>线程ID:3&gt;&gt;58&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.6</时间>
+    <描述>线程ID:3&gt;&gt;59&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.7</时间>
+    <描述>线程ID:3&gt;&gt;60&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.8</时间>
+    <描述>线程ID:3&gt;&gt;61&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.9</时间>
+    <描述>线程ID:3&gt;&gt;62&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.10</时间>
+    <描述>线程ID:3&gt;&gt;63&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.11</时间>
+    <描述>线程ID:3&gt;&gt;64&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.12</时间>
+    <描述>线程ID:3&gt;&gt;65&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.13</时间>
+    <描述>线程ID:3&gt;&gt;66&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.241.14</时间>
+    <描述>线程ID:3&gt;&gt;67&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.0</时间>
+    <描述>线程ID:3&gt;&gt;68&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.1</时间>
+    <描述>线程ID:3&gt;&gt;69&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.2</时间>
+    <描述>线程ID:3&gt;&gt;70&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.3</时间>
+    <描述>线程ID:3&gt;&gt;71&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.4</时间>
+    <描述>线程ID:3&gt;&gt;72&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.5</时间>
+    <描述>线程ID:3&gt;&gt;73&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.6</时间>
+    <描述>线程ID:3&gt;&gt;74&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.7</时间>
+    <描述>线程ID:3&gt;&gt;75&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.8</时间>
+    <描述>线程ID:3&gt;&gt;76&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.9</时间>
+    <描述>线程ID:3&gt;&gt;77&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.10</时间>
+    <描述>线程ID:3&gt;&gt;78&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.11</时间>
+    <描述>线程ID:3&gt;&gt;79&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.12</时间>
+    <描述>线程ID:3&gt;&gt;80&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.13</时间>
+    <描述>线程ID:3&gt;&gt;81&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.14</时间>
+    <描述>线程ID:3&gt;&gt;82&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.15</时间>
+    <描述>线程ID:3&gt;&gt;83&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.256.16</时间>
+    <描述>线程ID:3&gt;&gt;84&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.0</时间>
+    <描述>线程ID:3&gt;&gt;85&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.1</时间>
+    <描述>线程ID:3&gt;&gt;86&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.2</时间>
+    <描述>线程ID:3&gt;&gt;87&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.3</时间>
+    <描述>线程ID:3&gt;&gt;88&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.4</时间>
+    <描述>线程ID:3&gt;&gt;89&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.5</时间>
+    <描述>线程ID:3&gt;&gt;90&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.6</时间>
+    <描述>线程ID:3&gt;&gt;91&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.7</时间>
+    <描述>线程ID:3&gt;&gt;92&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.8</时间>
+    <描述>线程ID:3&gt;&gt;93&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.9</时间>
+    <描述>线程ID:3&gt;&gt;94&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.10</时间>
+    <描述>线程ID:3&gt;&gt;95&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.11</时间>
+    <描述>线程ID:3&gt;&gt;96&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.12</时间>
+    <描述>线程ID:3&gt;&gt;97&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.13</时间>
+    <描述>线程ID:3&gt;&gt;98&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.272.14</时间>
+    <描述>线程ID:3&gt;&gt;99&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.0</时间>
+    <描述>线程ID:3&gt;&gt;100&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.1</时间>
+    <描述>线程ID:3&gt;&gt;101&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.2</时间>
+    <描述>线程ID:3&gt;&gt;102&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.3</时间>
+    <描述>线程ID:3&gt;&gt;103&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.4</时间>
+    <描述>线程ID:3&gt;&gt;104&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.5</时间>
+    <描述>线程ID:3&gt;&gt;105&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.6</时间>
+    <描述>线程ID:3&gt;&gt;106&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.7</时间>
+    <描述>线程ID:3&gt;&gt;107&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.8</时间>
+    <描述>线程ID:3&gt;&gt;108&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.9</时间>
+    <描述>线程ID:3&gt;&gt;109&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.10</时间>
+    <描述>线程ID:3&gt;&gt;110&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.11</时间>
+    <描述>线程ID:3&gt;&gt;111&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.12</时间>
+    <描述>线程ID:3&gt;&gt;112&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.13</时间>
+    <描述>线程ID:3&gt;&gt;113&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.287.14</时间>
+    <描述>线程ID:3&gt;&gt;114&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.0</时间>
+    <描述>线程ID:3&gt;&gt;115&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.1</时间>
+    <描述>线程ID:3&gt;&gt;116&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.2</时间>
+    <描述>线程ID:3&gt;&gt;117&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.3</时间>
+    <描述>线程ID:3&gt;&gt;118&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.4</时间>
+    <描述>线程ID:3&gt;&gt;119&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.5</时间>
+    <描述>线程ID:3&gt;&gt;120&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.6</时间>
+    <描述>线程ID:3&gt;&gt;121&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.7</时间>
+    <描述>线程ID:3&gt;&gt;122&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.8</时间>
+    <描述>线程ID:3&gt;&gt;123&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.9</时间>
+    <描述>线程ID:3&gt;&gt;124&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.10</时间>
+    <描述>线程ID:3&gt;&gt;125&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.11</时间>
+    <描述>线程ID:3&gt;&gt;126&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.12</时间>
+    <描述>线程ID:3&gt;&gt;127&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.13</时间>
+    <描述>线程ID:3&gt;&gt;128&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.14</时间>
+    <描述>线程ID:3&gt;&gt;129&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.15</时间>
+    <描述>线程ID:3&gt;&gt;130&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.16</时间>
+    <描述>线程ID:3&gt;&gt;131&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.17</时间>
+    <描述>线程ID:3&gt;&gt;132&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.303.18</时间>
+    <描述>线程ID:3&gt;&gt;133&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.0</时间>
+    <描述>线程ID:3&gt;&gt;134&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.1</时间>
+    <描述>线程ID:3&gt;&gt;135&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.2</时间>
+    <描述>线程ID:3&gt;&gt;136&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.3</时间>
+    <描述>线程ID:3&gt;&gt;137&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.4</时间>
+    <描述>线程ID:3&gt;&gt;138&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.5</时间>
+    <描述>线程ID:3&gt;&gt;139&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.6</时间>
+    <描述>线程ID:3&gt;&gt;140&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.7</时间>
+    <描述>线程ID:3&gt;&gt;141&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.8</时间>
+    <描述>线程ID:3&gt;&gt;142&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.9</时间>
+    <描述>线程ID:3&gt;&gt;143&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.10</时间>
+    <描述>线程ID:3&gt;&gt;144&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.11</时间>
+    <描述>线程ID:3&gt;&gt;145&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.12</时间>
+    <描述>线程ID:3&gt;&gt;146&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.319.13</时间>
+    <描述>线程ID:3&gt;&gt;147&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.0</时间>
+    <描述>线程ID:3&gt;&gt;148&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.1</时间>
+    <描述>线程ID:3&gt;&gt;149&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.2</时间>
+    <描述>线程ID:3&gt;&gt;150&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.3</时间>
+    <描述>线程ID:3&gt;&gt;151&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.4</时间>
+    <描述>线程ID:3&gt;&gt;152&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.5</时间>
+    <描述>线程ID:3&gt;&gt;153&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.6</时间>
+    <描述>线程ID:3&gt;&gt;154&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.7</时间>
+    <描述>线程ID:3&gt;&gt;155&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.8</时间>
+    <描述>线程ID:3&gt;&gt;156&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.9</时间>
+    <描述>线程ID:3&gt;&gt;157&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.10</时间>
+    <描述>线程ID:3&gt;&gt;158&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.11</时间>
+    <描述>线程ID:3&gt;&gt;159&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.12</时间>
+    <描述>线程ID:3&gt;&gt;160&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.13</时间>
+    <描述>线程ID:3&gt;&gt;161&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.14</时间>
+    <描述>线程ID:3&gt;&gt;162&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.15</时间>
+    <描述>线程ID:3&gt;&gt;163&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.334.16</时间>
+    <描述>线程ID:3&gt;&gt;164&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.0</时间>
+    <描述>线程ID:3&gt;&gt;165&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.1</时间>
+    <描述>线程ID:3&gt;&gt;166&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.2</时间>
+    <描述>线程ID:3&gt;&gt;167&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.3</时间>
+    <描述>线程ID:3&gt;&gt;168&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.4</时间>
+    <描述>线程ID:3&gt;&gt;169&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.5</时间>
+    <描述>线程ID:3&gt;&gt;170&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.6</时间>
+    <描述>线程ID:3&gt;&gt;171&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.7</时间>
+    <描述>线程ID:3&gt;&gt;172&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.8</时间>
+    <描述>线程ID:3&gt;&gt;173&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.9</时间>
+    <描述>线程ID:3&gt;&gt;174&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.10</时间>
+    <描述>线程ID:3&gt;&gt;175&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.11</时间>
+    <描述>线程ID:3&gt;&gt;176&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.12</时间>
+    <描述>线程ID:3&gt;&gt;177&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.13</时间>
+    <描述>线程ID:3&gt;&gt;178&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.350.14</时间>
+    <描述>线程ID:3&gt;&gt;179&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.0</时间>
+    <描述>线程ID:3&gt;&gt;180&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.1</时间>
+    <描述>线程ID:3&gt;&gt;181&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.2</时间>
+    <描述>线程ID:3&gt;&gt;182&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.3</时间>
+    <描述>线程ID:3&gt;&gt;183&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.4</时间>
+    <描述>线程ID:3&gt;&gt;184&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.5</时间>
+    <描述>线程ID:3&gt;&gt;185&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.6</时间>
+    <描述>线程ID:3&gt;&gt;186&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.7</时间>
+    <描述>线程ID:3&gt;&gt;187&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.8</时间>
+    <描述>线程ID:3&gt;&gt;188&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.9</时间>
+    <描述>线程ID:3&gt;&gt;189&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.10</时间>
+    <描述>线程ID:3&gt;&gt;190&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.11</时间>
+    <描述>线程ID:3&gt;&gt;191&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.12</时间>
+    <描述>线程ID:3&gt;&gt;192&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.366.13</时间>
+    <描述>线程ID:3&gt;&gt;193&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.381.0</时间>
+    <描述>线程ID:3&gt;&gt;194&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.381.1</时间>
+    <描述>线程ID:3&gt;&gt;195&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.381.2</时间>
+    <描述>线程ID:3&gt;&gt;196&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.381.3</时间>
+    <描述>线程ID:3&gt;&gt;197&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.0</时间>
+    <描述>线程ID:3&gt;&gt;198&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.1</时间>
+    <描述>线程ID:3&gt;&gt;199&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.2</时间>
+    <描述>线程ID:3&gt;&gt;200&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.3</时间>
+    <描述>线程ID:3&gt;&gt;201&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.4</时间>
+    <描述>线程ID:3&gt;&gt;202&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.5</时间>
+    <描述>线程ID:3&gt;&gt;203&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.6</时间>
+    <描述>线程ID:3&gt;&gt;204&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.7</时间>
+    <描述>线程ID:3&gt;&gt;205&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.397.8</时间>
+    <描述>线程ID:3&gt;&gt;206&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.0</时间>
+    <描述>线程ID:3&gt;&gt;207&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.1</时间>
+    <描述>线程ID:3&gt;&gt;208&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.2</时间>
+    <描述>线程ID:3&gt;&gt;209&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.3</时间>
+    <描述>线程ID:3&gt;&gt;210&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.4</时间>
+    <描述>线程ID:3&gt;&gt;211&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.5</时间>
+    <描述>线程ID:3&gt;&gt;212&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.6</时间>
+    <描述>线程ID:3&gt;&gt;213&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.7</时间>
+    <描述>线程ID:3&gt;&gt;214&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.8</时间>
+    <描述>线程ID:3&gt;&gt;215&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.412.9</时间>
+    <描述>线程ID:3&gt;&gt;216&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.0</时间>
+    <描述>线程ID:3&gt;&gt;217&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.1</时间>
+    <描述>线程ID:3&gt;&gt;218&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.2</时间>
+    <描述>线程ID:3&gt;&gt;219&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.3</时间>
+    <描述>线程ID:3&gt;&gt;220&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.4</时间>
+    <描述>线程ID:3&gt;&gt;221&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.5</时间>
+    <描述>线程ID:3&gt;&gt;222&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.6</时间>
+    <描述>线程ID:3&gt;&gt;223&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.7</时间>
+    <描述>线程ID:3&gt;&gt;224&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.428.8</时间>
+    <描述>线程ID:3&gt;&gt;225&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.0</时间>
+    <描述>线程ID:3&gt;&gt;226&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.1</时间>
+    <描述>线程ID:3&gt;&gt;227&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.2</时间>
+    <描述>线程ID:3&gt;&gt;228&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.3</时间>
+    <描述>线程ID:3&gt;&gt;229&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.4</时间>
+    <描述>线程ID:3&gt;&gt;230&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.5</时间>
+    <描述>线程ID:3&gt;&gt;231&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.6</时间>
+    <描述>线程ID:3&gt;&gt;232&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.7</时间>
+    <描述>线程ID:3&gt;&gt;233&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.8</时间>
+    <描述>线程ID:3&gt;&gt;234&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.444.9</时间>
+    <描述>线程ID:3&gt;&gt;235&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.0</时间>
+    <描述>线程ID:3&gt;&gt;236&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.1</时间>
+    <描述>线程ID:3&gt;&gt;237&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.2</时间>
+    <描述>线程ID:3&gt;&gt;238&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.3</时间>
+    <描述>线程ID:3&gt;&gt;239&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.4</时间>
+    <描述>线程ID:3&gt;&gt;240&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.5</时间>
+    <描述>线程ID:3&gt;&gt;241&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.6</时间>
+    <描述>线程ID:3&gt;&gt;242&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.7</时间>
+    <描述>线程ID:3&gt;&gt;243&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.8</时间>
+    <描述>线程ID:3&gt;&gt;244&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.459.9</时间>
+    <描述>线程ID:3&gt;&gt;245&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.0</时间>
+    <描述>线程ID:3&gt;&gt;246&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.1</时间>
+    <描述>线程ID:3&gt;&gt;247&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.2</时间>
+    <描述>线程ID:3&gt;&gt;248&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.3</时间>
+    <描述>线程ID:3&gt;&gt;249&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.4</时间>
+    <描述>线程ID:3&gt;&gt;250&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.5</时间>
+    <描述>线程ID:3&gt;&gt;251&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.6</时间>
+    <描述>线程ID:3&gt;&gt;252&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.7</时间>
+    <描述>线程ID:3&gt;&gt;253&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.475.8</时间>
+    <描述>线程ID:3&gt;&gt;254&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.0</时间>
+    <描述>线程ID:3&gt;&gt;255&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.1</时间>
+    <描述>线程ID:3&gt;&gt;256&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.2</时间>
+    <描述>线程ID:3&gt;&gt;257&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.3</时间>
+    <描述>线程ID:3&gt;&gt;258&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.4</时间>
+    <描述>线程ID:3&gt;&gt;259&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.5</时间>
+    <描述>线程ID:3&gt;&gt;260&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.6</时间>
+    <描述>线程ID:3&gt;&gt;261&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.7</时间>
+    <描述>线程ID:3&gt;&gt;262&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.491.8</时间>
+    <描述>线程ID:3&gt;&gt;263&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.0</时间>
+    <描述>线程ID:3&gt;&gt;264&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.1</时间>
+    <描述>线程ID:3&gt;&gt;265&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.2</时间>
+    <描述>线程ID:3&gt;&gt;266&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.3</时间>
+    <描述>线程ID:3&gt;&gt;267&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.4</时间>
+    <描述>线程ID:3&gt;&gt;268&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.5</时间>
+    <描述>线程ID:3&gt;&gt;269&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.6</时间>
+    <描述>线程ID:3&gt;&gt;270&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.7</时间>
+    <描述>线程ID:3&gt;&gt;271&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.506.8</时间>
+    <描述>线程ID:3&gt;&gt;272&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.0</时间>
+    <描述>线程ID:3&gt;&gt;273&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.1</时间>
+    <描述>线程ID:3&gt;&gt;274&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.2</时间>
+    <描述>线程ID:3&gt;&gt;275&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.3</时间>
+    <描述>线程ID:3&gt;&gt;276&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.4</时间>
+    <描述>线程ID:3&gt;&gt;277&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.5</时间>
+    <描述>线程ID:3&gt;&gt;278&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.6</时间>
+    <描述>线程ID:3&gt;&gt;279&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.7</时间>
+    <描述>线程ID:3&gt;&gt;280&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.8</时间>
+    <描述>线程ID:3&gt;&gt;281&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.522.9</时间>
+    <描述>线程ID:3&gt;&gt;282&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.0</时间>
+    <描述>线程ID:3&gt;&gt;283&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.1</时间>
+    <描述>线程ID:3&gt;&gt;284&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.2</时间>
+    <描述>线程ID:3&gt;&gt;285&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.3</时间>
+    <描述>线程ID:3&gt;&gt;286&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.4</时间>
+    <描述>线程ID:3&gt;&gt;287&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.5</时间>
+    <描述>线程ID:3&gt;&gt;288&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.6</时间>
+    <描述>线程ID:3&gt;&gt;289&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.7</时间>
+    <描述>线程ID:3&gt;&gt;290&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.537.8</时间>
+    <描述>线程ID:3&gt;&gt;291&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.0</时间>
+    <描述>线程ID:3&gt;&gt;292&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.1</时间>
+    <描述>线程ID:3&gt;&gt;293&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.2</时间>
+    <描述>线程ID:3&gt;&gt;294&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.3</时间>
+    <描述>线程ID:3&gt;&gt;295&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.4</时间>
+    <描述>线程ID:3&gt;&gt;296&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.5</时间>
+    <描述>线程ID:3&gt;&gt;297&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>自定义</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.6</时间>
+    <描述>线程ID:3&gt;&gt;298&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.7</时间>
+    <描述>线程ID:3&gt;&gt;299&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>预留</类型>
+    <系统>TestSys</系统>
+    <模块>报告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:36:57.553.8</时间>
+    <描述>线程ID:3&gt;&gt;300&gt;&gt;&gt;测试日志数据</描述>
+    <来源>DoWork [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:04.69.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:04.69.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:05.788.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:05.803.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:08.597.0</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:08.597.1</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:09.347.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:09.362.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:12.536.0</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:12.552.0</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:12.802.0</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:12.817.0</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:13.239.0</时间>
+    <描述>警告日志类型测试。d08940b8-2027-453e-a074-2ce3864e9d9b</描述>
+    <来源>button4_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:18.115.0</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:18.115.1</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:18.880.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:37:18.912.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>10:46:10.785.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:10.785.1</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:13.442.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:13.442.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:14.660.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:14.692.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:16.692.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:16.692.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:18.51.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:18.82.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:20.67.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:20.67.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:35.728.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:39.556.0</时间>
+    <描述>警告日志类型测试。c65f3dd9-4498-4a55-b1c9-0b5fd495e904</描述>
+    <来源>button4_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:40.212.0</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>10:46:40.228.0</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>11:01:36.957.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:01:36.957.1</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>11:06:54.652.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:06:54.668.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-07</日期>
+    <时间>11:08:04.366.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:04.366.1</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:06.554.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:06.554.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:08.273.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:08.288.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:09.241.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:09.241.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:10.7.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:10.38.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:11.382.0</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:11.382.1</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork [CommonTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:12.273.0</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:12.288.0</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork [FormBase]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:19.54.0</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:19.70.0</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:19.273.0</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:19.289.0</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:20.164.0</时间>
+    <描述>警告日志类型测试。241f399d-6a64-46a4-be93-005a8c6250c2</描述>
+    <来源>button4_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-07</日期>
+    <时间>11:08:20.992.0</时间>
+    <描述>警告日志类型测试。b7c73239-d76f-43be-9d35-5efff9ae9b60</描述>
+    <来源>button4_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement>

@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.frmRollTextDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.frmTextPars.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.RollTextControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.RollText.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.RollText.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.RollText\obj\Debug\zlMedimgSystem.CTL.RollText.pdb

@@ -1,0 +1,7 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\DB.OraServices\obj\Debug\zlMedimgSystem.DB.OraServices.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\DB.OraServices\obj\Debug\zlMedimgSystem.DB.OraServices.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\DB.OraServices\obj\Debug\zlMedimgSystem.DB.OraServices.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\DB.OraServices\obj\Debug\zlMedimgSystem.DB.OraServices.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.DB.OraServices.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.DB.OraServices.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\DB.OraServices\obj\Debug\zlMedimgSystem.DB.OraServices.csproj.CopyComplete

@@ -1,0 +1,13 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.DataListControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.frmDataListModuleDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.frmFixedConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.DataList.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.DataList.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataList\obj\Debug\zlMedimgSystem.CTL.DataList.csprojAssemblyReference.cache

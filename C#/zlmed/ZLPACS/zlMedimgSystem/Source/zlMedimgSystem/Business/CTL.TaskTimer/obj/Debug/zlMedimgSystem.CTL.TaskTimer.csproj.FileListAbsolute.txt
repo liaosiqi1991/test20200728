@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.TaskTimer.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.TaskTimer.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.frmTaskTimerDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.TaskTimerControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.TaskTimer\obj\Debug\zlMedimgSystem.CTL.TaskTimer.csprojAssemblyReference.cache

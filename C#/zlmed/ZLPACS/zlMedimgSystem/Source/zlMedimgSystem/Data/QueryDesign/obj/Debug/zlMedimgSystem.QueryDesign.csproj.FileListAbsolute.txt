@@ -1,0 +1,16 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.DesignMiddleWare.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.frmPars.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.frmQueryFilter.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.frmQueryResult.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.frmQueryWhere.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.QueryFace.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.QueryDesigner.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.QueryDesign.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.QueryDesign.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Data\QueryDesign\obj\Debug\zlMedimgSystem.QueryDesign.pdb

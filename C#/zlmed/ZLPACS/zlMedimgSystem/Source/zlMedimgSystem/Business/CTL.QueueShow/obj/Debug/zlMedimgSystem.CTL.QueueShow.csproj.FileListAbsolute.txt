@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.frmQueueShowConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.frmQueueShowDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.QueueShowControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueShow.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueShow.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueShow\obj\Debug\zlMedimgSystem.CTL.QueueShow.pdb

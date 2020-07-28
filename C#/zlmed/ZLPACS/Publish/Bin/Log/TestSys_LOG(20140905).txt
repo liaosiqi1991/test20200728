@@ -1,0 +1,1828 @@
+<DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>08:53:50.30</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>08:53:50.30</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>09:56:42.489</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:56:42.489</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:12.789</时间>
+    <描述>BackgroundWork执行完毕.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.149</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.180</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.321</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.336</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.555</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.555</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:19.977</时间>
+    <描述>警告日志类型测试。15609871-0047-4e89-8642-43863b2b6897</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:20.180</时间>
+    <描述>警告日志类型测试。f958e704-ed94-41a7-afaf-01eb2777d9e5</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:20.430</时间>
+    <描述>警告日志类型测试。37d5f8f7-0ceb-4a6e-97fa-d9cd67f382ec</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:24.118</时间>
+    <描述>警告日志类型测试。2933837a-4a93-475f-bc2a-bd6bf661e2cc</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:24.524</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:24.540</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:24.915</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:24.915</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>09:57:25.290</时间>
+    <描述>警告日志类型测试。1ad5f844-1bf6-4d5f-9e2a-ac968a2a8a75</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:20:38.53</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:38.54</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:42.980</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:54.10</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:57.54</时间>
+    <描述>终止BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:57.878</时间>
+    <描述>终止BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:58.319</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:59.358</时间>
+    <描述>终止BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:20:59.369</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:21:01.138</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:21:02.164</时间>
+    <描述>终止BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:21:02.186</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:35:34.879</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:35:34.880</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:35:38.13</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:44:25.37</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:44:25.38</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:44:27.662</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:44:29.74</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:45:08.745</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:45:08.746</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:45:11.55</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:45:14.376</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:46:44.575</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:46:44.576</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:46:46.661</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:46:47.906</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:48:13.796</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:48:13.796</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:48:15.877</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:48:30.576</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:49:43.816</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:49:43.817</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:49:45.889</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:49:55.586</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:49:55.611</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:50:12.48</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:50:13.706</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:50:13.732</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>10:56:39.644</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:39.645</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:43.268</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:45.12</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:45.27</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:50.118</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:54.470</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:54.480</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:56:57.412</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:08.477</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:11.171</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:11.404</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:11.604</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:11.766</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:11.922</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:12.87</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>10:57:13.196</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:00:11.84</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:11.85</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:13.118</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:16.291</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:16.301</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:18.972</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:20.36</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:20.47</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:20.958</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:31.939</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:00:41.396</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:00:41.397</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:04:35.643</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:04:35.644</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:04:37.696</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:04:37.696</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:04:40.558</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:04:40.569</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:05:06.299</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:05:06.299</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:05:07.669</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>CommonTest</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:05:07.688</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:07:00.954</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[App]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:07:00.955</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:11:41.835</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:11:41.836</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:11:45.457</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:11:45.457</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:11:49.167</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:11:49.178</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:17:18.639</时间>
+    <描述>日志服务启动。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:18.640</时间>
+    <描述>开始调试....</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:20.833</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:20.834</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:24.432</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:24.442</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:25.22</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:25.23</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:35.967</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:43.388</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:43.388</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:51.378</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:51.389</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:52.354</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源 />
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:17:52.354</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:18:03.311</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>CommonTest</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:18:08.822</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:18:08.834</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:18:09.360</时间>
+    <描述>警告日志类型测试。7ef9b839-aefa-4ccf-bdc9-e132f6deb504</描述>
+    <来源>button4_Click</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:25:53.736</时间>
+    <描述>日志服务启动。</描述>
+    <来源>WriteStartLog</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:25:53.737</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:25:56.203</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:25:56.206</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:26:01.410</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:26:01.420</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:26:10.246</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:26:10.246</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:26:11.771</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:26:11.786</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:28:13.529</时间>
+    <描述>日志服务启动。</描述>
+    <来源>WriteStartLog</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:28:13.530</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:28:17.537</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:28:17.538</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:28:18.865</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:28:18.875</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-05</日期>
+    <时间>11:28:59.751</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:28:59.752</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:29:02.592</时间>
+    <描述>启动BackgroundWork处理.</描述>
+    <来源>ThreadStart</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>common测试</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:29:02.593</时间>
+    <描述>启动后台线程处理。</描述>
+    <来源>DoBackgroundWork</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:29:03.732</时间>
+    <描述>撤销BackgroundWork处理.</描述>
+    <来源>ThreadCancel</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-05</日期>
+    <时间>11:29:03.750</时间>
+    <描述>完成BackgroundWork处理.</描述>
+    <来源>DoBackgroundCompletedWork</来源>
+  </LogTab>
+</DocumentElement>

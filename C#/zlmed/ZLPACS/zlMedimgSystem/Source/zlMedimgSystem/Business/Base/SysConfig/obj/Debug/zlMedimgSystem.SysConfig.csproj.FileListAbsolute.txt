@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.SysConfig.exe
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.SysConfig.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.exe
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\SysConfig\obj\Debug\zlMedimgSystem.SysConfig.pdb

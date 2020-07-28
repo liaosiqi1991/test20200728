@@ -1,0 +1,15 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Public\zlMedimgSystem.ExtFuncs.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Public\zlMedimgSystem.ExtFuncs.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.DesignMiddleWare.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.frmFuncInput.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.frmFuncRun.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.frmFuncTest.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.FuncControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.FuncDesigner.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\Base\ExtFuncs\obj\Debug\zlMedimgSystem.ExtFuncs.csprojAssemblyReference.cache

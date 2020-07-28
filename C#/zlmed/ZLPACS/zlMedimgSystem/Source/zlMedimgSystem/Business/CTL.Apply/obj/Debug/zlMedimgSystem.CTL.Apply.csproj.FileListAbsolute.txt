@@ -1,0 +1,15 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Apply.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Apply.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.ApplyControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.frmApplyScan.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.frmNewStudy.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.frmScanImage.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.frmScannerSetup.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Apply\obj\Debug\zlMedimgSystem.CTL.Apply.pdb

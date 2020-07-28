@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.frmLogin.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Login.dll.config
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Login.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Login.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Login\obj\Debug\zlMedimgSystem.Login.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Sysplugin.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Sysplugin.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.SyspluginControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Sysplugin\obj\Debug\zlMedimgSystem.CTL.Sysplugin.pdb

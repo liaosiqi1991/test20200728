@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B1769574-AE85-4B2B-B100-CC7C0ADC1E59}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zlMedimgSystem.CTL.Image</RootNamespace>
+    <AssemblyName>zlMedimgSystem.CTL.Image</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>..\..\..\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.Data.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.Utils.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\DX15\DevExpress.XtraEditors.v15.1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zlMedimgSystem.DB.OraServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="ZLSoft.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libary\Json\ZLSoft.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmImageConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImageConfig.Designer.cs">
+      <DependentUpon>frmImageConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImageDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImageDesign.Designer.cs">
+      <DependentUpon>frmImageDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageConfig.cs" />
+    <Compile Include="ImageControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ImageControl.Designer.cs">
+      <DependentUpon>ImageControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageModuleDesign.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmImageConfig.resx">
+      <DependentUpon>frmImageConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImageDesign.resx">
+      <DependentUpon>frmImageDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageControl.resx">
+      <DependentUpon>ImageControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Design\Design\zlMedimgSystem.Design.csproj">
+      <Project>{fd1fecdc-4343-451d-b581-73491ce27bbe}</Project>
+      <Name>zlMedimgSystem.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Frame\Interface\zlMedimgSystem.Interface.csproj">
+      <Project>{252E73CB-F780-43A6-929F-A6377B7C74B3}</Project>
+      <Name>zlMedimgSystem.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Frame\Services\zlMedimgSystem.Services.csproj">
+      <Project>{B3FB307C-E375-4246-A575-27596CBE58B4}</Project>
+      <Name>zlMedimgSystem.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base\BusinessBase\zlMedimgSystem.BusinessBase.csproj">
+      <Project>{413686ea-02fd-4b39-9383-7bc729edf430}</Project>
+      <Name>zlMedimgSystem.BusinessBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base\DataModel\zlMedimgSystem.DataModel.csproj">
+      <Project>{cddc4447-cc14-4b8e-8df8-c0ed038d49e6}</Project>
+      <Name>zlMedimgSystem.DataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nav_left_green.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nav_right_green.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures Edit 2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol Pencil.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SendReport.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SendReport1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SendReport11.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SendReport12.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keylock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportlock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\images.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgprocess.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

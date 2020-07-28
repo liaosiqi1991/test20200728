@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Test.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Test.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.TestControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\AUTO.Test\obj\Debug\zlMedimgSystem.CTL.Test.csprojAssemblyReference.cache

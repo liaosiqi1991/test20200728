@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.DataOperControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.frmDataOperModuleDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.DataOper.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.DataOper.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.DataOper\obj\Debug\zlMedimgSystem.CTL.DataOper.csprojAssemblyReference.cache

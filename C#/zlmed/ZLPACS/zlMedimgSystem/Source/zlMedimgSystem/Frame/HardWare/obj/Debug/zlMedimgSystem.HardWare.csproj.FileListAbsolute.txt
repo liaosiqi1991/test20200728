@@ -1,0 +1,13 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.HardWare.dll.config
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.HardWare.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.HardWare.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.FormSetup.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.JoyDevice.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.PedalDevice.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.ScanDevice.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\HardWare\obj\Debug\zlMedimgSystem.HardWare.csprojAssemblyReference.cache

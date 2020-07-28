@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.frmCfg.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.VERI.His.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.VERI.His.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.HIS\obj\Debug\zlMedimgSystem.VERI.His.csproj.CopyComplete

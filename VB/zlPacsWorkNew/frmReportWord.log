@@ -1,0 +1,6 @@
+行 43: 控件 rtbEditWord 的类 RichTextLib.RichTextBox 不是一个已加载的控件类。
+行 78: 控件 rtxtPrivateWord 的类 RichTextLib.RichTextBox 不是一个已加载的控件类。
+行 137: 控件 trvWordTree 的类 MSComctlLib.TreeView 不是一个已加载的控件类。
+行 190: 控件 rtxtWord 的类 RichTextLib.RichTextBox 不是一个已加载的控件类。
+行 217: 控件 ImageList1 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 239: 控件 dkpMain 的类 XtremeDockingPane.DockingPane 不是一个已加载的控件类。

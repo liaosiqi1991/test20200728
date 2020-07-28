@@ -1,0 +1,7 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.VERI.Test.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.VERI.Test.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.Test\obj\Debug\zlMedimgSystem.VERI.Test.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.Test\obj\Debug\zlMedimgSystem.VERI.Test.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.Test\obj\Debug\zlMedimgSystem.VERI.Test.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.Test\obj\Debug\zlMedimgSystem.VERI.Test.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\VERI.Test\obj\Debug\zlMedimgSystem.VERI.Test.pdb

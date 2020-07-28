@@ -1,0 +1,8 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAIN.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAIN.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAIN.dll.CodeAnalysisLog.xml
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\TWAIN.dll.lastcodeanalysissucceeded
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\obj\x86\Debug\twaincs.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\obj\x86\Debug\TWAIN.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\obj\x86\Debug\TWAIN.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Third\obj\x86\Debug\twaincs.csprojAssemblyReference.cache

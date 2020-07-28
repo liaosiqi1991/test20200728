@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07E035D9-5D86-40C2-A01D-F4E736C50518}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zlMedimgSystem.CTL.QueueVoice</RootNamespace>
+    <AssemblyName>zlMedimgSystem.CTL.QueueVoice</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Public\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmQueueVoiceDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQueueVoiceDesign.Designer.cs">
+      <DependentUpon>frmQueueVoiceDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalProcess.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QueueVoiceControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QueueVoiceControl.Designer.cs">
+      <DependentUpon>QueueVoiceControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QueueVoiceModuleDesign.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Design\Design\zlMedimgSystem.Design.csproj">
+      <Project>{FD1FECDC-4343-451D-B581-73491CE27BBE}</Project>
+      <Name>zlMedimgSystem.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Frame\Interface\zlMedimgSystem.Interface.csproj">
+      <Project>{252E73CB-F780-43A6-929F-A6377B7C74B3}</Project>
+      <Name>zlMedimgSystem.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Frame\Services\zlMedimgSystem.Services.csproj">
+      <Project>{B3FB307C-E375-4246-A575-27596CBE58B4}</Project>
+      <Name>zlMedimgSystem.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base\DataModel\zlMedimgSystem.DataModel.csproj">
+      <Project>{CDDC4447-CC14-4B8E-8DF8-C0ED038D49E6}</Project>
+      <Name>zlMedimgSystem.DataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmQueueVoiceDesign.resx">
+      <DependentUpon>frmQueueVoiceDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QueueVoiceControl.resx">
+      <DependentUpon>QueueVoiceControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calling.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\queuevoice.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DingDong.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

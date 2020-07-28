@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Joy.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Joy.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.frmJoyDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.JoyControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Joy\obj\Debug\zlMedimgSystem.CTL.Joy.csprojAssemblyReference.cache

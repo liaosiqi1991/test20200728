@@ -1,0 +1,16 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.BizDesignBase.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.BizMainLayout.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.DesignMiddleWare.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.frmControlManager.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.frmElementExport.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.frmElementImport.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.frmTest.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Layout.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Layout.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Layout\obj\Debug\zlMedimgSystem.Layout.pdb

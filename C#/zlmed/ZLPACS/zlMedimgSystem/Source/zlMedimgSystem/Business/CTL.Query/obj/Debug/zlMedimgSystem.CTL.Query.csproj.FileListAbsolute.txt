@@ -1,0 +1,6 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Query\obj\Debug\zlMedimgSystem.CTL.Query.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Query\obj\Debug\zlMedimgSystem.CTL.Query.frmQueryDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Query\obj\Debug\zlMedimgSystem.CTL.Query.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Query\obj\Debug\zlMedimgSystem.CTL.Query.QueryControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Query\obj\Debug\zlMedimgSystem.CTL.Query.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Query\obj\Debug\zlMedimgSystem.CTL.Query.csproj.CoreCompileInputs.cache

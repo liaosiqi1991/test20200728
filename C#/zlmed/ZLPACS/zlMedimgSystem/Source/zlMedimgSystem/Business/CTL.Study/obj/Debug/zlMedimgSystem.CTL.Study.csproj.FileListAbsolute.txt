@@ -1,0 +1,6 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Study\obj\Debug\zlMedimgSystem.CTL.Study.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Study\obj\Debug\zlMedimgSystem.CTL.Study.frmFilter.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Study\obj\Debug\zlMedimgSystem.CTL.Study.frmRequest.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Study\obj\Debug\zlMedimgSystem.CTL.Study.StudyControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Study\obj\Debug\zlMedimgSystem.CTL.Study.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Study\obj\Debug\zlMedimgSystem.CTL.Study.csproj.CoreCompileInputs.cache

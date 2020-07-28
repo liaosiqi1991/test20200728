@@ -1,0 +1,94 @@
+<DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-11</日期>
+    <时间>14:37:21.33.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-11</日期>
+    <时间>14:37:21.177.0</时间>
+    <描述>开始调试....</描述>
+    <来源>.ctor [Debug]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>------</类型>
+    <系统>------</系统>
+    <模块>------</模块>
+    <线程>------</线程>
+    <日期>------</日期>
+    <时间>------</时间>
+    <描述>------</描述>
+    <来源>------</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[LOG]</模块>
+    <线程>[LOG]</线程>
+    <日期>14-09-11</日期>
+    <时间>14:43:23.203.0</时间>
+    <描述>日志服务启动。</描述>
+    <来源 xml:space="preserve"> </来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-11</日期>
+    <时间>14:43:23.208.0</时间>
+    <描述>[APP]初始化数据库访问对象失败。</描述>
+    <来源>zlPacsCommon&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Common.DBAccessManager.InitGlobalDB(String serverName, String userName, String pwd) 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\Manager\DBAccessManager.cs:行号 51
+   在 ZLSoft.ZLPacs.Common.PacsCommon.ConnectionDB(String serName, String userName, String pwd) 位置 E:\ZLPACS\SourceCode\zlPacsCommon\zlPacsCommon\PacsCommon.cs:行号 174
+   在 ZLSoft.ZLPacs.Debug.Debug..ctor() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\Debug.cs:行号 29</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>常规</类型>
+    <系统>TestSys</系统>
+    <模块>[APP]</模块>
+    <线程 />
+    <日期>14-09-11</日期>
+    <时间>14:45:04.699.0</时间>
+    <描述>开始计算</描述>
+    <来源>button2_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>错误</类型>
+    <系统>TestSys</系统>
+    <模块>抛出错误</模块>
+    <线程 />
+    <日期>14-09-11</日期>
+    <时间>14:45:04.742.0</时间>
+    <描述>试图除以零。</描述>
+    <来源>zlPacsDebug&gt;&gt;&gt;&gt;
+   在 ZLSoft.ZLPacs.Debug.LogTest.Calc() 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 110
+   在 ZLSoft.ZLPacs.Debug.LogTest.button2_Click(Object sender, EventArgs e) 位置 E:\ZLPACS\SourceCode\zlPacsDebug\zlPacsDebug\LogTest.cs:行号 97</来源>
+  </LogTab>
+</DocumentElement><DocumentElement>
+  <LogTab>
+    <类型>警告</类型>
+    <系统>TestSys</系统>
+    <模块>抛出警告</模块>
+    <线程 />
+    <日期>14-09-11</日期>
+    <时间>14:45:05.876.0</时间>
+    <描述>警告日志类型测试。19edc677-e784-4c21-993c-af248b4b8149</描述>
+    <来源>button4_Click [LogTest]</来源>
+  </LogTab>
+</DocumentElement>

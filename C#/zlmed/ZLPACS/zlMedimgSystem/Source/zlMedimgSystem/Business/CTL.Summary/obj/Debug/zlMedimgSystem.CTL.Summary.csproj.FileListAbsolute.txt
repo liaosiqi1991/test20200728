@@ -1,0 +1,14 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.frmDBSource.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.frmSelectField.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.frmSummaryDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.SummaryControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Summary.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.Summary.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.Summary\obj\Debug\zlMedimgSystem.CTL.Summary.csprojAssemblyReference.cache

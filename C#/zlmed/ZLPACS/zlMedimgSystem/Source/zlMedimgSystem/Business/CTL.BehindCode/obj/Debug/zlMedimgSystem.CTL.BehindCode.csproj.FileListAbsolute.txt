@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.BehindCodeControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.frmBehindCodeModuleDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.BehindCode.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.BehindCode.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.BehindCode\obj\Debug\zlMedimgSystem.CTL.BehindCode.pdb

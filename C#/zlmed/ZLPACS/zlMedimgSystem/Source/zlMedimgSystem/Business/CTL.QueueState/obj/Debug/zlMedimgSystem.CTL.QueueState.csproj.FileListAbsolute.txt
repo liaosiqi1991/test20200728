@@ -1,0 +1,10 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.frmQueueStateModuleDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.QueueStateControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueState.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.QueueState.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.QueueState\obj\Debug\zlMedimgSystem.CTL.QueueState.pdb

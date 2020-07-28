@@ -1,0 +1,9 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.DBConfig.exe
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.DBConfig.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.frmMain.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.exe
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Frame\Config\obj\Debug\zlMedimgSystem.DBConfig.pdb

@@ -1,0 +1,14 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Design.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.Design.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.DesignComponent.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.DesignControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.frmImageResourceSelector.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.frmProEventEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.frmRClickMenuEditor.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Design\Design\obj\Debug\zlMedimgSystem.Design.csprojAssemblyReference.cache

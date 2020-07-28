@@ -1,0 +1,10 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.APPLY.ZLSoftApply.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.APPLY.ZLSoftApply.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.csprojAssemblyReference.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.frmHisDBConfig.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.Properties.Resources.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\BizExternal\ZLSoftApply\obj\Debug\zlMedimgSystem.APPLY.ZLSoftApply.pdb

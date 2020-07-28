@@ -1,0 +1,11 @@
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.ViewTable.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\Public\zlMedimgSystem.CTL.ViewTable.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.frmViewTableDesign.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.ViewTableControl.resources
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.csproj.GenerateResource.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.dll.licenses
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.csproj.CoreCompileInputs.cache
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.csproj.CopyComplete
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.dll
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.pdb
+E:\zlmed\ZLPACS\zlMedimgSystem\Source\zlMedimgSystem\Business\CTL.ViewTable\obj\Debug\zlMedimgSystem.CTL.ViewTable.csprojAssemblyReference.cache
